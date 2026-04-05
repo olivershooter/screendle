@@ -6,7 +6,8 @@
 
 <p align="center">
   <strong>Daily movie guessing game.</strong><br/>
-  Get a vague clue, guess the film, unlock the next hint. Five guesses. One movie per day.
+  Get a vague clue, guess the film, unlock the next hint. Five guesses. One movie per day.<br/><br/>
+  <a href="https://screendle.com">screendle.com</a>
 </p>
 
 <p align="center">
