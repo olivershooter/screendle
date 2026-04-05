@@ -89,4 +89,4 @@ VITE_SENTRY_DSN=your_frontend_sentry_dsn
 
 ## License
 
-MIT
+All rights reserved. This software is proprietary and may not be copied, modified, or distributed without explicit permission.
